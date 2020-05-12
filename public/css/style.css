@@ -1,0 +1,50 @@
+body {
+    background-color: turquoise;
+}
+
+#app {
+    width: 600px;
+    margin: auto;
+}
+
+.navbar {
+    background-color: turquoise;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 > a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    width: 430px;
+}
+
+.home-text, .contact-text {
+    width: 430px;
+    margin: auto;
+}
+
+#error {
+    color: red;
+}
+
+.number-input {
+    width: 70px;
+}
+
+.expiration {
+    width: 90px;
+}
+
+.small_button {
+    width: 100px;
+}
